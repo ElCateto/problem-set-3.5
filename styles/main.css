@@ -1,3 +1,18 @@
+
 h1 {
-  color: #7a1f1f;
+  color: #c1c419;
+}
+
+body {
+background-image: linear-gradient(#ea0707, #ad1111);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.page_link {
+  font-family: "Arial", Helvetica, sans-serif;
+
 }
