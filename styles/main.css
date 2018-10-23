@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-background-image: linear-gradient(#396aba);
+background-image: linear-gradient(#396aba, #4d5d77);
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
@@ -19,12 +19,12 @@ background-image: linear-gradient(#396aba);
 
 /* unvisited link */
 a:link {
-    color: green;
+    color:  darkgreen;
 }
 
 /* visited link */
 a:visited {
-    color: green;
+    color: #5fe045;
 }
 
 /* mouse over link */
@@ -35,4 +35,10 @@ a:hover {
 /* selected link */
 a:active {
     color: yellow;
-} 
+}
+
+img {
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    padding: 1px;
+}
