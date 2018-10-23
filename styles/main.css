@@ -44,10 +44,28 @@ img {
 }
 
 .table {
-  border: 1px solid black;
+  border: 1px solid black;S
 }
 
 .image {
   height: 250px;
     width: 200px;
+}
+
+.header_image {
+  height: 80px;
+  width: 80px;
+}
+
+p {
+  color: #041900;
+}
+
+h2 {
+  color: #80821a;
+}
+
+#important {
+  text-decoration: underline;
+  text-decoration-color: #c13626;
 }
