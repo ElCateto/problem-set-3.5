@@ -42,3 +42,12 @@ img {
     border-radius: 4px;
     padding: 1px;
 }
+
+.table {
+  border: 1px solid black;
+}
+
+.image {
+  height: 250px;
+    width: 200px;
+}
